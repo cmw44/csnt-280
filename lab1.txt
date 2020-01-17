@@ -1,0 +1,12 @@
+CSNT 280 Lab 1 - A simple car lot database
+You are to come up with a simple database for a car lot. The entities that you will need to
+keep track of are cars, customers and sales. Here are the fields you need to keep track of for
+each of the tables:
+
+cars - id, make, model, price
+customers - id, first_name, last_name, sex
+sales - id, car_id, customer_id
+
+You are to come up with an appropriate SQL script called "init.sql" that will create the
+tables. Next, you will use SQL Power Architect to generate an image that shows the tables and
+the relationships between the tables.
